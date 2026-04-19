@@ -92,12 +92,6 @@ http://127.0.0.1:8000/makanan
 
 ---
 
-## 👨‍💻 Author
-
-Dibuat oleh: **Aan**
-
----
-
 ## 📌 Catatan
 
 Project ini dibuat untuk keperluan pembelajaran CRUD menggunakan Laravel.
